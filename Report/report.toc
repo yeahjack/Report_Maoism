@@ -16,3 +16,4 @@
 \contentsline {subsubsection}{\numberline {2.3.1}什么是“奶头乐”}{7}{subsubsection.2.3.1}%
 \contentsline {subsubsection}{\numberline {2.3.2}“二次元”的“奶头乐”化}{7}{subsubsection.2.3.2}%
 \contentsline {section}{\numberline {3}关于“二次元”的未来和一些可预见的调控方法}{8}{section.3}%
+\contentsline {section}{\numberline {4}附录}{8}{section.4}%
